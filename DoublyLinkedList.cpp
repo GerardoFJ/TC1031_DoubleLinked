@@ -1,3 +1,8 @@
+/*
+    Act 1.3 - Comprehensive Activity of Basic Concepts and Fundamental Algorithms 
+    Created by Ricardo Gaspar Ochoa, Gilberto Malagamba Montejo and Gerardo Fregoso Jimenez on 10/11/24.
+    This code filters logs from a file based on IP addresses and saves them to another file.
+*/
 #include "DoublyLinkedList.h"
 #include <iostream>
 #include <fstream>
